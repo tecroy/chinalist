@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-!  Checksum: vFxbwaOtjDDh6B1mOiJ4fw
-!  Title: knight000931's list
+!  Checksum: Ej+Ct2xhR2uRhi+83CI9gQ
+!  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
 !
 !  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 25 Mar 2014 23:16:52 +0800
+!  Last Modified:  Tue, 25 Mar 2014 23:20:36 +0800
 !  Homepage: http://chinalist.github.io/
 !  As a supplement for EasyList, ChinaList won't provide the filters
 !  which in EasyList already.Please subscribe EasyList also.
