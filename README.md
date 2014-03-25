@@ -1,6 +1,6 @@
 ## In memory of ChinaList
 
-## [Subscribe] (abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fknight00931%2Fchinalist%2Fmaster%2Fchinalist.txt&amp;title=knight00931's%20list), thanks Gythialy.
+[Subscribe](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fknight00931%2Fchinalist%2Fmaster%2Fchinalist.txt&amp;title=knight00931's%20list), thanks Gythialy.
 
 ## 从此，广告已成往事
 
