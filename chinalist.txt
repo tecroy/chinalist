@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-!  Checksum: kRR8M4HgbR18aB6jQyi6QA
+!  Checksum: sloj9xMGtXPozLhhRE9M2g
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
 !
 !  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 25 Mar 2014 23:20:38 +0800
+!  Last Modified:  Tue, 25 Mar 2014 23:23:08 +0800
 !  Homepage: http://chinalist.github.io/
 !  ChinaList = ChinaList Lite + EasyList + EasyPrivacy
 !  If you need to know the details,
@@ -2970,7 +2970,6 @@ suning.com#@##topAd
 @@||union.mapbar.com/apis/maps/$script
 !*** EasyList ***
 ! *** [Adblock Plus 2.0]
-!  Checksum: kRR8M4HgbR18aB6jQyi6QA
 ! Version: 201403251510
 ! Title: EasyList
 ! Last modified: 25 Mar 2014 15:10 UTC
@@ -44602,7 +44601,6 @@ accounts.google.com#@#.adwords
 @@||imagebam.com/image/$popup
 !*** EasyPrivacy ***
 !*** [Adblock Plus 1.1]
-!  Checksum: kRR8M4HgbR18aB6jQyi6QA
 ! Title: EasyPrivacy
 ! Please report any unblocked tracking or problems
 !-----------------General tracking systems-----------------!
