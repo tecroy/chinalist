@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-!  Checksum: yoAps7ziobcR8L/jBkHpSw
+!  Checksum: 7dvp1CNjeKr4FbP+EiWiMw
 !  Title: ChinaList
 !  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 25 Mar 2014 09:43:47 +0800
+!  Last Modified:  Tue, 25 Mar 2014 21:40:44 +0800
 !  Homepage: http://chinalist.github.io/
 !
 !  ChinaList = Part of EasyList + Part of EasyPrivacy + ChinaList Lite
@@ -14372,6 +14372,7 @@ _popunder+$popup
 ###rotating-ads-wrap
 ###rotating_ad
 ###rotatingads
+###row-ad
 ###row2AdContainer
 ###rprightHeaderAd
 ###rpuAdUnit-0
@@ -16166,6 +16167,7 @@ _popunder+$popup
 ##.ad-vertical-container
 ##.ad-vertical-stack-ad
 ##.ad-vtu
+##.ad-warning
 ##.ad-wide
 ##.ad-widget
 ##.ad-widget-list
@@ -17817,6 +17819,7 @@ _popunder+$popup
 ##.adslogan
 ##.adslot
 ##.adslot-widget
+##.adslot_1
 ##.adslot_blurred
 ##.adslothead
 ##.adslotleft
