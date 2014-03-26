@@ -1,17 +1,10 @@
 [Adblock Plus 2.0]
-!  Checksum: vh3yDHQ5attYkAN5vrSjdQ
+!  Checksum: Wiv9zfeqpR5Fo36c6M9TXQ
+!
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!
-!  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 25 Mar 2014 23:23:07 +0800
-!  Homepage: http://chinalist.github.io/
-!  As a supplement for EasyList, ChinaList won't provide the filters
-!  which in EasyList already.Please subscribe EasyList also.
-!  If you need help or have any question,
-!  please visit: https://github.com/chinalist/chinalist
-!  Licence: https://github.com/chinalist/chinalist/blob/master/LICENSE
-!  coding: utf-8, expires: 2 days
+!  Last Modified:  Wed, 26 Mar 2014 08:19:34 +0800
+!  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
 /clicktotal/ClickTotal.js

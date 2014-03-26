@@ -1,18 +1,10 @@
 [Adblock Plus 2.0]
-!  Checksum: sloj9xMGtXPozLhhRE9M2g
+!  Checksum: IvhbIKNz9A4p3vEnoVtuwg
+!
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!
-!  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Tue, 25 Mar 2014 23:23:08 +0800
-!  Homepage: http://chinalist.github.io/
-!  ChinaList = ChinaList Lite + EasyList + EasyPrivacy
-!  If you need to know the details,
-!  please visit: https://github.com/chinalist/chinalist/wiki/something_about_ChinaList_Lazy
-!  If you need help or have any question,
-!  please visit: https://github.com/chinalist/chinalist
+!  Last Modified:  Wed, 26 Mar 2014 08:19:43 +0800
 !  coding: utf-8, expires: 2 days
-!--CC-BY-SA 3.0 + Licensed, NO WARRANTY but Best Wishes----
 !*** chinalist-adservers.txt ***
 !--中国电信
 /clicktotal/ClickTotal.js
@@ -2968,14 +2960,7 @@ suning.com#@##topAd
 !--大众点评
 @@||dianping.com/adwords/$xmlhttprequest
 @@||union.mapbar.com/apis/maps/$script
-!*** EasyList ***
-! Version: 201403251510
-! Last modified: 25 Mar 2014 15:10 UTC
-! Homepage: https://easylist.adblockplus.org/
-! Licence: https://easylist-downloads.adblockplus.org/COPYING
-! Please report any unblocked adverts or problems
-! in the forums (http://forums.lanik.us/)
-! or via e-mail (easylist.subscription@gmail.com).
+
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 &ad_box_
@@ -5418,7 +5403,7 @@ suning.com#@##topAd
 /adwords/*
 /adwordstracking.js
 /adWorking/*
-/adworks.
+/adworks.$domain=~adworks.co.il
 /adworks/*
 /adworldmedia/*
 /adworx.
@@ -12092,6 +12077,7 @@ _popunder+$popup
 ###banner_ads
 ###banner_adsense
 ###banner_advertisement
+###banner_adverts
 ###banner_content_ad
 ###banner_sedo
 ###banner_slot
@@ -12567,6 +12553,7 @@ _popunder+$popup
 ###contextad
 ###contextual-ads
 ###contextual-ads-block
+###contextual-ads-bricklet
 ###contextual-dummy-ad
 ###contextualad
 ###corner_ad
@@ -14500,6 +14487,8 @@ _popunder+$popup
 ###side-big-ad-bottom
 ###side-big-ad-middle
 ###side-boxad
+###side-content-ad-1
+###side-content-ad-2
 ###side-halfpage-ad
 ###side-skyscraper-ad
 ###sideABlock
@@ -18775,6 +18764,8 @@ _popunder+$popup
 ##.blox3featuredAd
 ##.blue-ad
 ##.blxAdopsPlacement
+##.bmg-sidebar-ads-125
+##.bmg-sidebar-ads-300
 ##.bn_textads
 ##.bnr_ad
 ##.bodaciousad
@@ -19131,6 +19122,7 @@ _popunder+$popup
 ##.contentAdBox
 ##.contentAdContainer
 ##.contentAdFoot
+##.contentAdIndex
 ##.contentAdsCommon
 ##.contentAdsWrapper
 ##.contentAdvertisement
@@ -20891,6 +20883,7 @@ _popunder+$popup
 ##.region-regions-ad-top
 ##.region-regions-ad-top-inner
 ##.region-top-ad-position
+##.region-widget-ad-top-0
 ##.regular_728_ad
 ##.regularad
 ##.reklam
@@ -21306,6 +21299,7 @@ _popunder+$popup
 ##.site-ad-block
 ##.site-ads
 ##.site-top-ad
+##.siteWideAd
 ##.site_ad
 ##.site_ad_120_600
 ##.site_ad_300x250
@@ -22919,6 +22913,7 @@ dizi-mag.com#@##header_ad
 dailybitcoins.org#@#.ad-img
 uptobox.com#@#.ad-leader
 jump-in.com.au#@#.ad-wrapper
+online.dramacafe.tv#@#.afs_ads
 topzone.lt#@#.forumAd
 tweaktown.com#@#div[id^="div-gpt-ad-"]
 !---------------------------Third-party advertisers---------------------------!
@@ -26891,6 +26886,7 @@ tweaktown.com#@#div[id^="div-gpt-ad-"]
 ||dycpc40hvg4ki.cloudfront.net^
 ||dyl3p6so5yozo.cloudfront.net^
 ||dynw.com/banner
+||e-tailwebstores.com/accounts/default1/banners/
 ||e-webcorp.com/images/$third-party
 ||e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com^
 ||e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com^
@@ -39662,6 +39658,7 @@ alternet.org##div[id^="div-gpt-ad-"] + .ui-dialog
 alternet.org##div[id^="div-gpt-ad-"] + .ui-dialog + .ui-widget-overlay
 vodlocker.com##div[id^="div-gpt-ad-"] + div
 btsportshd.com,cricfree.eu,cricfree.tv,cricket-365.info,cricketembed.com,desihd.net,desistreams.tv,hdfooty.tv,ihdsports.com,micast.tv,online--soccer.eu,premier--streams.info,putlive.in,soccerembed.com,streamking.org,zuuk.net##div[id^="floatLayer"]
+eventhubs.com##div[id^="google_ads_"]
 volokh.com##div[id^="google_ads_div_"]
 wg-gesucht.de##div[id^="listAdPos_"]
 cool-sport.net,iwantsport.com,sport-guides.net,stream2all.net,tykestv.eu##div[id^="ltas_overlay_"]
@@ -42311,8 +42308,8 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 !---------------------------------Whitelists----------------------------------!
 ! *** easylist:easylist/easylist_whitelist.txt ***
 @@.com/b/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
-@@.com/banners/$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
-@@.com/image-*-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
+@@.com/banners/$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
+@@.com/image-*-$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@.net/image-*-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@/advertising-glype/*$image,stylesheet
 @@/click-*?sid=skim*&url=$subdocument,domain=shopetti.com
@@ -42632,6 +42629,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||aviationclassifieds.com/adimg/$image,~third-party
 @@||aviationdocumentstorage.com/Av_Docs/CSS/ADS-1.css
 @@||aviationexplorer.com/airline_aviation_ads/
+@@||awin1.com/cshow.php?s=$image,domain=deliverydeals.co.uk
 @@||backpackinglight.com/backpackinglight/ads/banner-$~third-party
 @@||bafta.org/static/site/javascript/banners.js
 @@||baltimoresun.com/hive/images/adv_
@@ -43017,6 +43015,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||google.com/uds/modules/elements/newsshow/iframe.html?format=728x90^$document,subdocument
 @@||google.com^*/show_afs_ads.js$domain=whitepages.com
 @@||googletagservices.com/tag/static/google_services.js$domain=sportsillustrated.cnn.com
+@@||gopjn.com/b/$image,domain=deliverydeals.co.uk
 @@||gorillanation.com/storage/lightbox_code/static/companion_ads.js$domain=comingsoon.net|gamerevolution.com|sohh.com
 @@||gotoassist.com/images/ad/
 @@||gotomeeting.com/images/ad/$image,stylesheet
@@ -43076,6 +43075,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||img.travidia.com^$image
 @@||img.weather.weatherbug.com^*/stickers/$image,stylesheet
 @@||imgag.com^*/adaptvadplayer.swf$domain=egreetings.com
+@@||impgb.tradedoubler.com/imp?type(img)$image,domain=deliverydeals.co.uk
 @@||imwx.com/js/adstwo/adcontroller.js$domain=weather.com
 @@||incredibox.fr/advertise/_liste.js
 @@||incredibox.fr/image/advertise/
@@ -43283,6 +43283,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||nick.com/js/coda/nick/adrefresh.js$domain=nick.com
 @@||nickjr.com/assets/ad-entry/
 @@||nickjr.com/global/scripts/overture/sponsored_links_lib.js
+@@||nonstoppartner.net/a/$image,domain=deliverydeals.co.uk
 @@||nyctourist.com/www/delivery/spcjs.php?$script,domain=nyctourist.com
 @@||nyt.com^*/ad-loader.js$domain=nytimes.com
 @@||nytimes.com/ads/interstitial/skip*.gif
@@ -43644,6 +43645,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||toshiba.*^banner_id^$subdocument
 @@||trade-a-plane.com/AdBox/js/jquery.TAP_AdBox.js
 @@||tradecarview.com/material/housead/$image
+@@||tradedoubler.com/file/$image,domain=deliverydeals.co.uk
 @@||trader.ca/TraderMobileAPIBB.asmx/GetAds?$script,domain=autos.ca
 @@||traktorpool.de/scripts/advert/
 @@||traktorpool.de^*/advert.
@@ -43786,7 +43788,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||yahoo.com/combo?$stylesheet
 @@||yahoo.net/1/adnetwork/$object-subrequest
 @@||yallwire.com/pl_ads.php?$object-subrequest
-@@||yceml.net^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
+@@||yceml.net^$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||yellowpages.com.mt/Images/Design/Buttons/advert.png
 @@||yellupload.com/yell/videoads/*.flv|
 @@||yellupload.com/yell/videoads/yellvideoplayer.swf?
@@ -44474,7 +44476,7 @@ accounts.google.com#@#.adwords
 @@-120x60-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@-120x60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@_120_60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
-@@_120x60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
+@@_120x60.$image,domain=catalogfavoritesvip.com|deliverydeals.co.uk|freeshipping.com|freeshippingbymastercard.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@_120x60_$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||270towin.com/cdn-cgi/pe/bag?*_160x600_$xmlhttprequest
 @@||amazonaws.com/content-images/article/*_120x60$domain=vice.com
@@ -44597,7 +44599,6 @@ accounts.google.com#@#.adwords
 ! *** easylist:easylist_adult/adult_whitelist_popup.txt ***
 @@||imagebam.com/image/$popup
 !*** EasyPrivacy ***
-! Please report any unblocked tracking or problems
 !-----------------General tracking systems-----------------!
 !*** easylist:easyprivacy/easyprivacy_general.txt ***
 &pageReferrer=
@@ -51744,6 +51745,7 @@ http://utm.
 @@||nytimes.com^*/wtinit.js
 @@||odcdn.com^*/cm.js
 @@||officeworks.com.au^*/site-tracker.js
+@@||ooyala.com/3rdparty/comscore_$object-subrequest,domain=livetvcafe.net
 @@||ooyala.com/3rdparty/comscore_*.swf$domain=bloomberg.com|businessweek.com|greentechmedia.com
 @@||ooyala.com/crossdomain.xml$object-subrequest
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
@@ -51896,6 +51898,7 @@ http://utm.
 @@||gridsumdissector.com^*/logger.js
 @@||hm.baidu.com/h.js?$domain=weaku.com
 @@||imrworldwide.com/novms/js/2/ggcmb353.js$domain=nexttv.com.tw
+@@||pingan.com.cn^*/logger.js?
 @@||pingjs.qq.com/ping_tcss_ied.js$domain=dnf.qq.com
 @@||uwants.com/include/*/swfaddress.js
 @@||vanclimg.com/js.ashx?*/google-analytics.js$domain=vancl.com
