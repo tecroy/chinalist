@@ -2969,11 +2969,8 @@ suning.com#@##topAd
 @@||dianping.com/adwords/$xmlhttprequest
 @@||union.mapbar.com/apis/maps/$script
 !*** EasyList ***
-! *** [Adblock Plus 2.0]
 ! Version: 201403251510
-! Title: EasyList
 ! Last modified: 25 Mar 2014 15:10 UTC
-! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! Please report any unblocked adverts or problems
@@ -44600,8 +44597,6 @@ accounts.google.com#@#.adwords
 ! *** easylist:easylist_adult/adult_whitelist_popup.txt ***
 @@||imagebam.com/image/$popup
 !*** EasyPrivacy ***
-!*** [Adblock Plus 1.1]
-! Title: EasyPrivacy
 ! Please report any unblocked tracking or problems
 !-----------------General tracking systems-----------------!
 !*** easylist:easyprivacy/easyprivacy_general.txt ***
