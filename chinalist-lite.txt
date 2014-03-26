@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: Q3nlQqoNXHeNPt8ay915sA
+!  Checksum: OkCjZMWq4b1IwSzK+zJQrQ
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 26 Mar 2014 08:26:50 +0800
+!  Last Modified:  Wed, 26 Mar 2014 08:32:47 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1373,6 +1373,54 @@ tiexue.net##.banner
 webkaka.com###Table1
 zhaozi.cn##.mt3
 zxtjd.com###it_an
+!---import
+!---widgets
+/nrelate-flyout/*
+||addthis.com^$third-party
+||addtoany.com^$third-party
+||anobii.com^$third-party
+||apis.google.com/js/plusone.js$third-party
+||baifendian.com^$third-party
+||bshare.cn^$third-party
+||check*.facebook.com^
+||connect.renren.com^$third-party
+||d8rk54i4mohrb.cloudfront.net/js/slide.js
+||fbshare.me^$third-party
+||follow.v.t.qq.com^$third-party
+||funp.com^$third-party
+||hiiir.com^$third-party
+||hits.sinajs.cn/A1/weiboshare.html
+||jiathis.com^$third-party
+||linkwithin.com^$third-party
+||meebo.com^$third-party
+||pinterest.com^$third-party
+||platform.linkedin.com^$third-party
+||plurk.com/getWidget^
+||postrank.com^$third-party
+||qzone.qq.com^$third-party
+||reddit.com/static/button/$third-party
+||share.baidu.com^$third-party
+||sharethis.com^$third-party
+||stickeraction.com^$third-party
+||stumbleupon.com^$third-party
+||translate.google.com^$third-party,domain=~translate.googleusercontent.com
+||tweetmeme.com^$third-party
+||twimg.com^$third-party,~image,domain=~twitter.com
+||twitter.com^$~image,third-party,domain=~twimg.com
+||uservoice.com^$third-party
+||v.t.qq.com/follow/widget.js
+||wibiya.com^$third-party
+||widget.weibo.com^$third-party
+||widgets.digg.com^$third-party
+||widgetsplus.com^$third-party
+||wumii.com^$third-party
+!--other
+||blogger.com/navbar.g^
+||google-analytics.com^$third-party,domain=~imageshack.us
+||qkk.jp^
+||s.pixfs.net/common/toolbar/
+||s.pixfs.net^*related
+||vlog.xuite.net/_a/
 !*** chinalist-specific.txt ***
 !---网易
 ||adgeo.163.com^
