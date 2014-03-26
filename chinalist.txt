@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: IvhbIKNz9A4p3vEnoVtuwg
+!  Checksum: mTkFT6erNYkEHI+4P0l1fw
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 26 Mar 2014 08:19:43 +0800
+!  Last Modified:  Wed, 26 Mar 2014 08:26:52 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1298,6 +1298,7 @@ www.jstv.com##.jadv
 ||so100.cn/images/newshead.htm
 ||soaspx.com/images/hws.gif
 ||soaspx.com/images/iiszj.gif
+||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 ||source.qunar.com/site/images/wns/
 ||source.yto.net.cn/images/single/shipmentent_yto_ad.jpg
 ||sp.luo.bo^$subdocument
@@ -1384,6 +1385,7 @@ qiushibaike.com##.sitelink
 qzwb.com##.area[style^="height:70px;"]
 ruten.com.tw###supertop-bar
 share.dmhy.me,share.dmhy.org##[id$="_ad"]
+soft4fun.net###xad_mu
 subpig.net##.a_p
 tianyayidu.com##div[style^="width:728px;"]
 tiexue.net###Baidu_WWW_TopAD4
@@ -2960,7 +2962,18 @@ suning.com#@##topAd
 !--大众点评
 @@||dianping.com/adwords/$xmlhttprequest
 @@||union.mapbar.com/apis/maps/$script
-
+!*** EasyList ***
+! *** [Adblock Plus 2.0]
+!  Checksum: mTkFT6erNYkEHI+4P0l1fw
+! Version: 201403260010
+! Title: EasyList
+! Last modified: 26 Mar 2014 00:10 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.adblockplus.org/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+! Please report any unblocked adverts or problems
+! in the forums (http://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 &ad_box_
@@ -44599,6 +44612,10 @@ accounts.google.com#@#.adwords
 ! *** easylist:easylist_adult/adult_whitelist_popup.txt ***
 @@||imagebam.com/image/$popup
 !*** EasyPrivacy ***
+!*** [Adblock Plus 1.1]
+!  Checksum: mTkFT6erNYkEHI+4P0l1fw
+! Title: EasyPrivacy
+! Please report any unblocked tracking or problems
 !-----------------General tracking systems-----------------!
 !*** easylist:easyprivacy/easyprivacy_general.txt ***
 &pageReferrer=

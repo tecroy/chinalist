@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: Wiv9zfeqpR5Fo36c6M9TXQ
+!  Checksum: Q3nlQqoNXHeNPt8ay915sA
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 26 Mar 2014 08:19:34 +0800
+!  Last Modified:  Wed, 26 Mar 2014 08:26:50 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1278,6 +1278,7 @@ www.jstv.com##.jadv
 ||so100.cn/images/newshead.htm
 ||soaspx.com/images/hws.gif
 ||soaspx.com/images/iiszj.gif
+||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 ||source.qunar.com/site/images/wns/
 ||source.yto.net.cn/images/single/shipmentent_yto_ad.jpg
 ||sp.luo.bo^$subdocument
@@ -1364,6 +1365,7 @@ qiushibaike.com##.sitelink
 qzwb.com##.area[style^="height:70px;"]
 ruten.com.tw###supertop-bar
 share.dmhy.me,share.dmhy.org##[id$="_ad"]
+soft4fun.net###xad_mu
 subpig.net##.a_p
 tianyayidu.com##div[style^="width:728px;"]
 tiexue.net###Baidu_WWW_TopAD4

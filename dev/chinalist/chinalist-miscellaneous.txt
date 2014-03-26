@@ -603,6 +603,8 @@ ruten.com.tw###supertop-bar
 subpig.net##.a_p
 ||soaspx.com/images/hws.gif
 ||soaspx.com/images/iiszj.gif
+||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
+soft4fun.net###xad_mu
 ||bbs.t56.net/ad*/
 ||tianyayidu.com/js/
 tianyayidu.com##div[style^="width:728px;"]
