@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: OkCjZMWq4b1IwSzK+zJQrQ
+!  Checksum: 6Z11gxP6ZDWxKElbQN0sFg
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Wed, 26 Mar 2014 08:32:47 +0800
+!  Last Modified:  Thu, 27 Mar 2014 23:03:54 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1379,7 +1379,6 @@ zxtjd.com###it_an
 ||addthis.com^$third-party
 ||addtoany.com^$third-party
 ||anobii.com^$third-party
-||apis.google.com/js/plusone.js$third-party
 ||baifendian.com^$third-party
 ||bshare.cn^$third-party
 ||check*.facebook.com^
@@ -1403,10 +1402,7 @@ zxtjd.com###it_an
 ||sharethis.com^$third-party
 ||stickeraction.com^$third-party
 ||stumbleupon.com^$third-party
-||translate.google.com^$third-party,domain=~translate.googleusercontent.com
 ||tweetmeme.com^$third-party
-||twimg.com^$third-party,~image,domain=~twitter.com
-||twitter.com^$~image,third-party,domain=~twimg.com
 ||uservoice.com^$third-party
 ||v.t.qq.com/follow/widget.js
 ||wibiya.com^$third-party
@@ -2765,13 +2761,12 @@ cn.yahoo.com##.p_sider
 @@||ads.yimg.com/ja/a/$image,domain=tw.yahoo.com
 @@||l.yimg.com/f/a/tw/*/790840_*.swf
 @@||l.yimg.com/f/a/tw/elephant/*240x94*.swf
-@@||l.yimg.com/f/a/tw/js/flash_general_20090213.js$domain=tw.yahoo.com
 @@||l.yimg.com/zz/combo?*/ads/$script
+||l.yimg.com/*/ysm/
 ||l.yimg.com/d/lib/bc/bcr_2.0.5.js
 ||l.yimg.com/pq/
 ||l.yimg.com^*/a/tw/$~stylesheet
-||l.yimg.com^*/tw/ysm/
-||s.yimg.com/bf/ysm/$subdocument
+||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||tw.dictionary.search.yahoo.com/beacon/
 ||tw.img.webmaster.yahoo.com^*/ystats.gif
 ||tw.rd.yahoo.com^$image

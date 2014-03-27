@@ -1497,7 +1497,6 @@ cn.yahoo.com##.p_sider
 cn.yahoo.com###r_expandable
 !--TW
 @@||ads.yimg.com/ja/a/$image,domain=tw.yahoo.com
-@@||l.yimg.com/f/a/tw/js/flash_general_20090213.js$domain=tw.yahoo.com
 @@||l.yimg.com/f/a/tw/*/790840_*.swf
 @@||l.yimg.com/f/a/tw/elephant/*240x94*.swf
 @@||l.yimg.com/zz/combo?*/ads/$script
@@ -1508,8 +1507,8 @@ cn.yahoo.com###r_expandable
 ||l.yimg.com/d/lib/bc/bcr_2.0.5.js
 ||l.yimg.com/pq/
 ||l.yimg.com^*/a/tw/$~stylesheet
-||l.yimg.com^*/tw/ysm/
-||s.yimg.com/bf/ysm/$subdocument
+||l.yimg.com/*/ysm/
+||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||tw.yimg.com/a/tw/
 tw.news.yahoo.com##.gn_sub_blue
 tw.yahoo.com##.admod

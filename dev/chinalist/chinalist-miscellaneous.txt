@@ -670,8 +670,6 @@ zxtjd.com###it_an
 ||check*.facebook.com^
 ||fbshare.me^$third-party
 ||funp.com^$third-party
-||apis.google.com/js/plusone.js$third-party
-||translate.google.com^$third-party,domain=~translate.googleusercontent.com
 ||hiiir.com^$third-party
 ||jiathis.com^$third-party
 ||platform.linkedin.com^$third-party
@@ -691,8 +689,6 @@ zxtjd.com###it_an
 ||hits.sinajs.cn/A1/weiboshare.html
 ||stickeraction.com^$third-party
 ||tweetmeme.com^$third-party
-||twimg.com^$third-party,~image,domain=~twitter.com
-||twitter.com^$~image,third-party,domain=~twimg.com
 ||ujian.cc^$third-party
 ||uservoice.com^$third-party
 ||widget.weibo.com^$third-party
