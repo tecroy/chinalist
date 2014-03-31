@@ -8,5 +8,4 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 moptt.tw
 127.0.0.1 tw.api.vpon.com
