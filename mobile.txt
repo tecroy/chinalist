@@ -9,3 +9,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 tw.api.vpon.com
+127.0.0.1 ad.hodomobile.com
+127.0.0.1 cdn.waystorm.com
+127.0.0.1 cdn.waysmobi.com
+127.0.0.1 phone.waystorm.com
