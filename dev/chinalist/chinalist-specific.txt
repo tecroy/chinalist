@@ -1507,6 +1507,7 @@ cn.yahoo.com###r_expandable
 ||l.yimg.com/d/lib/bc/bcr_2.0.5.js
 ||l.yimg.com/pq/
 ||l.yimg.com^*/a/tw/$~stylesheet
+||s.yimg.com/gs/apex/
 ||s.yimg.com/ja/ap/tw/js/
 ||yimg.com/*/ysm/
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
