@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: tfWvRwgvr93k6TQ1jesJ4A
+!  Checksum: jnvvCaSYfBI1RVmtFK/G4Q
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Fri, 04 Apr 2014 22:58:53 +0800
+!  Last Modified:  Fri, 04 Apr 2014 23:00:25 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1129,7 +1129,6 @@ www.jstv.com##.jadv
 @@||chiphell.com/activity/*/*/$image,script,stylesheet
 @@||drmcmm.baidu.com/media/$domain=zhibo8.cc
 @@||img.jb51.net/inc/content.js
-@@||kocpc.myweb.hinet.net/BANNER.jpg
 @@||linuxidc.com/linuxfile/linux.js
 @@||yihaodian.com/advertise/$xmlhttprequest
 @@||yihaodian.com/product/ajaxAds.do?$xmlhttprequest

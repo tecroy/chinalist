@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-!  Checksum: S4BlTJ281J56MT14Yt62Mw
+!  Checksum: wVNfmJsmob6KjUnp6vanKw
 !  Title: ChinaList Anti Social
 !  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Fri, 04 Apr 2014 22:58:53 +0800
+!  Last Modified:  Fri, 04 Apr 2014 23:00:26 +0800
 !  Homepage: http://chinalist.github.io/
 !
 !  This is an unofficial version, 
