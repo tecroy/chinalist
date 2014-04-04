@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: UwGq08RnwHv53vkZrzM1dw
+!  Checksum: tfWvRwgvr93k6TQ1jesJ4A
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Fri, 04 Apr 2014 21:33:35 +0800
+!  Last Modified:  Fri, 04 Apr 2014 22:58:53 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -673,8 +673,6 @@ ithome.com.tw##table[height="110"]
 itopdog.cn##.xoxo > [id^="text-"]
 itopdog.cn##[class^="ad"]
 itopdog.cn##[id^="itopdog_ad-"]
-kocpc.com.tw##.sidebar:nth-child(2)
-kocpc.com.tw##.sidebar:nth-child(3)
 kugz.net###portal_block_241
 lkong.net##.myadvs
 loltw.gamebase.com.tw##[class^="adsense-"]
@@ -1126,10 +1124,12 @@ www.jstv.com##.jadv
 /gif/*$image,domain=txzqw.com
 /Images/ak47/*$domain=hanzify.net|hanzify.org
 /img/*$image,domain=txzqw.com
+/kocpc.myweb.hinet.net/*
 /large/*$domain=tiyuba.tv
 @@||chiphell.com/activity/*/*/$image,script,stylesheet
 @@||drmcmm.baidu.com/media/$domain=zhibo8.cc
 @@||img.jb51.net/inc/content.js
+@@||kocpc.myweb.hinet.net/BANNER.jpg
 @@||linuxidc.com/linuxfile/linux.js
 @@||yihaodian.com/advertise/$xmlhttprequest
 @@||yihaodian.com/product/ajaxAds.do?$xmlhttprequest
@@ -1354,6 +1354,8 @@ frdic.com,godic.net###sidebar1
 frdic.com,godic.net##.headBar
 jb51.net###liad_list
 jpwind.com##[id^="ShowAD"]
+kocpc.com.tw##.sidebar:nth-child(2)
+kocpc.com.tw##.sidebar:nth-child(3)
 kuwo.cn###rbtip
 maxpda.com##.ad
 maxpda.com##[id^="dp-ads"]
