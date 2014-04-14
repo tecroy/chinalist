@@ -662,10 +662,11 @@ zxtjd.com###it_an
 ||zzsky.cn/images/a_d_
 !---import
 !---media chaos
-||tvbs.com.tw^
-||chinatimes.com^
-||ctitv.com.tw^
-ctitv.com.tw,chinatimes.com,tvbs.com.tw##body
+!||tvbs.com.tw^
+!||chinatimes.com^
+!||ctitv.com.tw^
+!||udn.com^
+!ctitv.com.tw,chinatimes.com,tvbs.com.tw,udn.com##body
 !---widgets
 ||addthis.com^$third-party
 ||addtoany.com^$third-party
