@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 6NQbF5yOQF4yoEkjQwwHtw
+!  Checksum: l9fMJV6gYUKJhVpR5AxsOA
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 15 Apr 2014 12:57:22 +0800
+!  Last Modified:  Tue, 15 Apr 2014 23:26:24 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1374,12 +1374,6 @@ webkaka.com###Table1
 zhaozi.cn##.mt3
 zxtjd.com###it_an
 !---import
-!---media chaos
-||tvbs.com.tw^
-||chinatimes.com^
-||ctitv.com.tw^
-||udn.com^
-ctitv.com.tw,chinatimes.com,tvbs.com.tw,udn.com##body
 !---widgets
 /nrelate-flyout/*
 ||addthis.com^$third-party
