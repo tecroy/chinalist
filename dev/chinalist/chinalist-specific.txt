@@ -781,6 +781,13 @@ club.kdnet.net##.slide-banner
 kkkmh.com##[class^="mm-"]
 bt.ktxp.com##.ad
 
+!---廣告王
+||pimg.tw/kocpc/
+/kocpc.myweb.hinet.net/*
+kocpc.com.tw##.single_ads
+kocpc.com.tw##.sidebar:nth-child(2)
+kocpc.com.tw##.sidebar:nth-child(3)
+
 !---Ku6
 ||sdo.com^$object-subrequest,domain=v.ku6.com
 ||st.vq.ku6.cn^

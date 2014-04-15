@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 966JpMFZOZNqQ0RQJj6qDg
+!  Checksum: +BSOcfRk6yiNyWjvZLhmmQ
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 15 Apr 2014 12:47:48 +0800
+!  Last Modified:  Tue, 15 Apr 2014 12:57:24 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1146,7 +1146,6 @@ www.jstv.com##.jadv
 /gif/*$image,domain=txzqw.com
 /Images/ak47/*$domain=hanzify.net|hanzify.org
 /img/*$image,domain=txzqw.com
-/kocpc.myweb.hinet.net/*
 /large/*$domain=tiyuba.tv
 @@||chiphell.com/activity/*/*/$image,script,stylesheet
 @@||drmcmm.baidu.com/media/$domain=zhibo8.cc
@@ -1375,8 +1374,6 @@ frdic.com,godic.net###sidebar1
 frdic.com,godic.net##.headBar
 jb51.net###liad_list
 jpwind.com##[id^="ShowAD"]
-kocpc.com.tw##.sidebar:nth-child(2)
-kocpc.com.tw##.sidebar:nth-child(3)
 kuwo.cn###rbtip
 maxpda.com##.ad
 maxpda.com##[id^="dp-ads"]
@@ -2169,6 +2166,12 @@ club.kdnet.net##.slide-banner
 ||ktxp.com/javascripts/nmjui/
 bt.ktxp.com##.ad
 kkkmh.com##[class^="mm-"]
+!---廣告王
+/kocpc.myweb.hinet.net/*
+||pimg.tw/kocpc/
+kocpc.com.tw##.sidebar:nth-child(2)
+kocpc.com.tw##.sidebar:nth-child(3)
+kocpc.com.tw##.single_ads
 !---Ku6
 ||sdo.com^$object-subrequest,domain=v.ku6.com
 ||st.vq.ku6.cn^

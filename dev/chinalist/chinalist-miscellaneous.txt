@@ -545,9 +545,6 @@ jpwind.com##[id^="ShowAD"]
 ||img.kekenet.com/images/kekepic/tom468X60.gif
 ||img.kekenet.com/statics/images/en/51talk.gif
 ||old.kekenet.com/html/images/tom640X40.gif
-/kocpc.myweb.hinet.net/*
-kocpc.com.tw##.sidebar:nth-child(2)
-kocpc.com.tw##.sidebar:nth-child(3)
 ||wa.kuwo.cn/lyrics/img/kwgg/
 kuwo.cn###rbtip
 ||kyer8.com/images/log.jpg
