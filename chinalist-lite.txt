@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: i5KjiGnHDzvDKuLrgtpD3Q
+!  Checksum: XD1+9H9puOisH02s4WcBew
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Mon, 14 Apr 2014 08:21:13 +0800
+!  Last Modified:  Tue, 15 Apr 2014 12:47:35 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -683,6 +683,8 @@ mobile01.com##[class^="ad-"]
 mobile01.com##a[href^="adredir.php"]
 naruto.hk###jieshao DIV
 news.cnyes.com##[class^="ad"]
+pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
+pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
 paoshu8.net###TextTitle ~ table[border="0"]
 paoshu8.net##[id^="ad_"]
 portableappc.com###text-7

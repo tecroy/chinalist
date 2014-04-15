@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: W+/1km7SublTrUsJiM2VFg
+!  Checksum: 966JpMFZOZNqQ0RQJj6qDg
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Mon, 14 Apr 2014 08:21:23 +0800
+!  Last Modified:  Tue, 15 Apr 2014 12:47:48 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -703,6 +703,8 @@ mobile01.com##[class^="ad-"]
 mobile01.com##a[href^="adredir.php"]
 naruto.hk###jieshao DIV
 news.cnyes.com##[class^="ad"]
+pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
+pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
 paoshu8.net###TextTitle ~ table[border="0"]
 paoshu8.net##[id^="ad_"]
 portableappc.com###text-7
@@ -17469,6 +17471,7 @@ _popunder+$popup
 ##.ads-cars-top2
 ##.ads-categories-bsa
 ##.ads-col
+##.ads-container-mediumrectangle
 ##.ads-content
 ##.ads-custom
 ##.ads-favicon
@@ -21594,6 +21597,7 @@ _popunder+$popup
 ##.sponsored-editorial
 ##.sponsored-features
 ##.sponsored-header
+##.sponsored-headshop
 ##.sponsored-link
 ##.sponsored-links
 ##.sponsored-links-alt-b
@@ -24363,6 +24367,7 @@ tweaktown.com#@#div[id^="div-gpt-ad-"]
 ||hijacksystem.com^$third-party
 ||himediads.com^$third-party
 ||himediadx.com^$third-party
+||hiplair.com^$third-party
 ||hit-now.com^$third-party
 ||hits.sys.lv^$third-party
 ||hokaybo.com^$third-party
@@ -28452,6 +28457,7 @@ tweaktown.com#@#div[id^="div-gpt-ad-"]
 ^guid=$script,domain=allmyvideos.net|mediafire.com|mooshare.biz|muchshare.net|tvmuse.com|tvmuse.eu|vidspot.net
 |http:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adv.li|allmyvideos.net|j.gs|linkbucksmedia.com|q.gs|shr77.com|tigerleech.com|u.bb|vidspot.net
 |http://*.js?rv=$third-party,domain=mediafire.com
+|http://*^id^*^rv^$script,third-party,domain=mediafire.com
 |http://j.gs/omnigy*.swf
 |http://p.pw^$subdocument
 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|j.gs|q.gs|tigerleech.com|u.bb
@@ -31637,6 +31643,7 @@ tweaktown.com#@#div[id^="div-gpt-ad-"]
 ||vinaora.com/xmedia/hosting/
 ||vipbox.co/js/bn.js
 ||vipbox.co^*/pu.js
+||vipbox.tv/js/layer-
 ||vipbox.tv/js/layer.js
 ||vipi.tv/ad.php
 ||virtual-hideout.net/banner
@@ -34586,6 +34593,7 @@ etaiwannews.com,taiwannews.com.tw###list_google2_newsblock
 etaiwannews.com,taiwannews.com.tw###list_google_newsblock
 ikascore.com###listed
 nymag.com###listings-sponsored
+sawlive.tv###llvvd
 webmd.com###lnch-promo
 sunshinecoastdaily.com.au###localOffers
 whereis.com###location_advertisement
@@ -34873,7 +34881,7 @@ hiphopwired.com###outbrain_wrapper
 engadget.com###outerslice
 mp4upload.com###over
 deviantart.com###overhead-you-know-what
-agame.com,notdoppler.com,viponlinesports.eu###overlay
+agame.com,notdoppler.com,vipboxeu.co,viponlinesports.eu###overlay
 euro-pic.eu,imagewaste.com###overlayBg
 theyeshivaworld.com###overlayDiv
 reference.com###overlayRightA
@@ -37259,7 +37267,6 @@ nytimes.com##.expediaBooking
 mercurynews.com##.expertBox
 torrents.net##.external
 torrentreactor.net##.external-search-results
-alibaba.com##.extra-wrap
 tucows.com##.f11
 india.com##.fBannerAside
 computerworld.co.nz##.fairfax_nav
@@ -39942,11 +39949,12 @@ cool-sport.net,iwantsport.com,sport-guides.net,stream2all.net,tykestv.eu##div[id
 csnchicago.com##div[id^="phase2_irish_rightrail_"]:first-child
 csnchicago.com##div[id^="phase2_irish_rightrail_"]:last-child
 target.com##div[id^="rr_promo_"]
+vipboxeu.co##div[id^="slot"]
 exrapidleech.info##div[id^="smowtion_cont_"]
 facebook.com##div[id^="sponsoredTickerStory_"]
 facebook.com##div[id^="substream_"] div[data-ft*="\"ei\":\""]
 notebookreview.com##div[id^="tgAD_imu_"]
-footstream.tv,leton.tv##div[id^="timer"]
+footstream.tv,jjcast.com,leton.tv##div[id^="timer"]
 facebook.com##div[id^="topnews_main_stream_"] div[data-ft*="\"ei\":\""]
 thessdreview.com##div[id^="wp_bannerize-"]
 statigr.am##div[id^="zone"]
@@ -44105,6 +44113,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||wsj.net^*/images/adv-$image,domain=marketwatch.com
 @@||www.google.*/aclk?*&adurl=$subdocument,~third-party
 @@||www.google.*/search?$subdocument
+@@||www.google.*/settings/u/0/ads/preferences/$~third-party,xmlhttprequest
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||xs4all.nl/virgil-finlay/information/adv-$subdocument,domain=jito.home.xs4all.nl
 @@||xs4all.nl/virgil-finlay/specials/advertisements/$domain=jito.home.xs4all.nl|reutel.nl
@@ -44177,6 +44186,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@|https://$script,third-party,domain=cbs.com|eventhubs.com
 @@||140cc.v.fwmrm.net/ad/l/1?s=$script,domain=gametrailers.com
 @@||188.143.233.13^$script,domain=ilix.in|priva.us
+@@||2mdn.net/instream/flash/v3/adsapi_3.swf$object-subrequest,domain=cbs.com
 @@||360haven.com/adframe.js
 @@||4fuckr.com^*/adframe.js
 @@||4sysops.com^*/adframe.js
@@ -44206,6 +44216,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||adzerk.net/ados.js$domain=majorleaguegaming.com
 @@||afdah.com/adblock.js
 @@||afdah.com/advertisement.js
+@@||afdah.com/js/adblock.js
 @@||afdah.com/show_ads.js
 @@||afreesms.com/js/adblock.js
 @@||afreesms.com/js/adframe.js
@@ -44248,15 +44259,17 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||channel4.com/p/c4_live/VPAIDAdRenderer.swf$object-subrequest
 @@||cheapgamehosting.com/js/advertisement.js
 @@||checkrom.com/stylesheets/blogads.css
-@@||chrissmoove.com/wp-content/plugins/wp-adstop/$script
 @@||chrissmoove.com^$elemhide
+@@||chrissmoove.com^*/advertisement.js
 @@||clicksor.com/newServing/getkey.php?$domain=rapid8.com
 @@||clicksor.com/newServing/js/show_ad.js$domain=rapid8.com
 @@||clicksor.com/newServing/showAd.php?*adtype=2$script,domain=rapid8.com
 @@||clicksor.net/images/$domain=kissanime.com
 @@||clickxchange.com^$image,domain=kissanime.com
 @@||clkrev.com/adServe/banners?$script,domain=go4up.com
+@@||clkrev.com/adServe/banners?tid=$script,domain=filmovizija.com
 @@||clkrev.com/banners/$script,subdocument,domain=go4up.com
+@@||clkrev.com/banners/script/bnr-tag_$script,domain=filmovizija.com
 @@||cloudvidz.net^$elemhide
 @@||coinurl.com/get.php?id=18045
 @@||cpalead.com/gwjs.php?pub=$script,domain=freebitcoinz.com|youserials.com
@@ -44423,6 +44436,7 @@ literotica.com##tr[style="background: #fff; text-align: center; font-size: 80%; 
 @@||pandora.com/static/ads/
 @@||pipocas.tv/js/advertisement.js
 @@||pirlotv.tv^$elemhide
+@@||popsads.com/adhandler/$script,domain=filmovizija.com
 @@||prad.de^$elemhide
 @@||premiumleecher.com/inc/adsense.js
 @@||primeshare.tv^*/adframe.js
@@ -44789,6 +44803,7 @@ accounts.google.com#@#.adwords
 @@||advertising.sanoma.be^$domain=advertising.sanoma.be
 ! AdRoll
 @@||adroll.com^$xmlhttprequest,domain=adroll.com
+@@||app.adroll.com^$elemhide
 ! *** easylist:easylist/easylist_whitelist_dimensions.txt ***
 @@-120x60-$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@-120x60.$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
@@ -44819,6 +44834,7 @@ accounts.google.com#@#.adwords
 @@||findafranchise.com/_img/*_120x60.$image
 @@||firestormgames.co.uk/image/*-120x60.
 @@||flumotion.com/play/player?*/300x250-$subdocument,domain=flaixfm.cat
+@@||framestr.com/media/*/300x250/$image,~third-party
 @@||freetvhub.com/ad1_300x250.html
 @@||google.com/uds/modules/elements/newsshow/iframe.html?*=300x250&
 @@||hortifor.com/images/*120x60$~third-party
@@ -49286,6 +49302,7 @@ http://utm.
 ||neocounter.neoworx-blog-tools.net^
 ||neon-lab.com/neonbctracker.js
 ||netalpaca.com/beacon
+||netbiscuits.net^*/analytics/
 ||netne.net/stats/
 ||netscape.com/c.cgi?
 ||neulion.vo.llnwd.net^*/track.js

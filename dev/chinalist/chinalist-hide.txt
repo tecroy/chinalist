@@ -75,6 +75,8 @@ mobile01.com##[class^="ad-"]
 mobile01.com##.admicrobtn
 mobile01.com##a[href^="adredir.php"]
 naruto.hk###jieshao DIV
+pansci.tw##div[style="float:left;width:605px;margin-bottom:12px;height:140px;"]
+pansci.tw##div[style="width:468px;height:60px;margin-left:auto;margin-right:auto;margin-top:12px;margin-bottom:6px;"]
 paoshu8.net##[id^="ad_"]
 paoshu8.net###TextTitle ~ table[border="0"]
 portableappc.com###text-7
