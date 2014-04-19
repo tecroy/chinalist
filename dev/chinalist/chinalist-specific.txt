@@ -1259,12 +1259,9 @@ soufun.com##.photo03
 soufun.com##.topbanner
 news.sh.soufun.com##TABLE[width="270"][height="400"][align="left"]
 
-!--好租网
-haozu.com##.index7ad
-||haozu.com/ajax/loadindexads$subdocument
-!--HOUSE365
-||house365.com/js/lbpopup.js
-house365.com##.m_coup-big
+!---solidot
+||img.solidot.com.cn^
+||pv.zdnet.com.cn^
 
 !---山西新闻网
 ||images.daynews.com.cn/flash/

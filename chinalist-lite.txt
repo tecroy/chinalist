@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: l9fMJV6gYUKJhVpR5AxsOA
+!  Checksum: kcHntf8HvrkNM8peHe3pkw
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 15 Apr 2014 23:26:24 +0800
+!  Last Modified:  Sat, 19 Apr 2014 09:31:50 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -2549,12 +2549,9 @@ soufun.com##.photo02
 soufun.com##.photo03
 soufun.com##.topbanner
 soufun.com##[class^="ad_"]
-!--好租网
-||haozu.com/ajax/loadindexads$subdocument
-haozu.com##.index7ad
-!--HOUSE365
-||house365.com/js/lbpopup.js
-house365.com##.m_coup-big
+!---solidot
+||img.solidot.com.cn^
+||pv.zdnet.com.cn^
 !---山西新闻网
 ||images.daynews.com.cn/flash/
 ||images.daynews.com.cn/zzbframe/2008daynews/ad/
