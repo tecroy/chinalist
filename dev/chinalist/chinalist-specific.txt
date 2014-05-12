@@ -1504,6 +1504,7 @@ cn.yahoo.com###r_expandable
 @@||l.yimg.com/f/a/tw/*/790840_*.swf
 @@||l.yimg.com/f/a/tw/elephant/*240x94*.swf
 @@||l.yimg.com/zz/combo?*/ads/$script
+@@||tw.m.yimg.com/res/ads/img/$domain=yahoo.com
 ||tw.dictionary.search.yahoo.com/beacon/
 ||tw.rd.yahoo.com^$image
 ||tw.img.webmaster.yahoo.com^*/ystats.gif

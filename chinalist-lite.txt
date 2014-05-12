@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: kcHntf8HvrkNM8peHe3pkw
+!  Checksum: 5udzNeJS3dhriC8fDnP+DA
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Sat, 19 Apr 2014 09:31:50 +0800
+!  Last Modified:  Tue, 13 May 2014 02:05:24 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -2765,6 +2765,7 @@ cn.yahoo.com##.p_sider
 @@||l.yimg.com/f/a/tw/*/790840_*.swf
 @@||l.yimg.com/f/a/tw/elephant/*240x94*.swf
 @@||l.yimg.com/zz/combo?*/ads/$script
+@@||tw.m.yimg.com/res/ads/img/$domain=yahoo.com
 ||l.yimg.com/d/lib/bc/bcr_2.0.5.js
 ||l.yimg.com/pq/
 ||l.yimg.com^*/a/tw/$~stylesheet
