@@ -64,3 +64,4 @@
 @@||tbcdn.cn/apps/tuiguang/$domain=tmall.com
 /tuiguang/*
 /webafp?
+/ysm.ezprice.net/*
