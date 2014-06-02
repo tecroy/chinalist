@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: 8YU/bvX8eGs4NKULrl3nKQ
+!  Checksum: bjOzEE3WbvpSsfz/lEFbww
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Tue, 27 May 2014 02:03:04 +0800
+!  Last Modified:  Mon, 02 Jun 2014 16:18:19 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -383,7 +383,6 @@
 ||p.777wyx.com^$third-party
 ||pagechoice.net^$third-party
 ||pangu.cc^$third-party
-||phone.waystorm.com^$third-party
 ||pixelinteractivemedia.com^$third-party
 ||pk38.com^$third-party
 ||pk840.com^$third-party
@@ -487,7 +486,9 @@
 ||wangzhan5.com^$third-party
 ||wanliuliang.com^$third-party
 ||wauee.com^$third-party
+||waystorm.com^$third-party
 ||web933.com^$third-party
+||weddingeeos.com^
 ||whoclick.cn^$third-party
 ||widget.ezprice.com.tw^$third-party
 ||wiseie.com^$third-party
@@ -2836,10 +2837,12 @@ yesky.com##[class^="ad"]
 ||yytcdn.com/uploads/page_advertisement/
 !---人人影视
 ||copy.ousns.com^
+||res.yyets.com/ads/
 yyets.com##.games-rec-list
 yyets.com##.joke
 yyets.com##.j-t
 yyets.com##a[href="http://ehdw.taobao.com/"]
+yyets.com##div[style^="width:700px;height:100px;"]
 !---叶子猪游戏网
 @@||yktj.yzz.cn/htmldata/mds/yzz_single_gg.js$domain=bbs.yzz.cn
 ||yktj.yzz.cn^

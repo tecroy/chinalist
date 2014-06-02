@@ -1581,6 +1581,8 @@ yesky.com##[class^="ad"]
 
 !---人人影视
 ||copy.ousns.com^
+||res.yyets.com/ads/
+yyets.com##div[style^="width:700px;height:100px;"]
 yyets.com##a[href="http://ehdw.taobao.com/"]
 yyets.com##.games-rec-list
 yyets.com##.j-t

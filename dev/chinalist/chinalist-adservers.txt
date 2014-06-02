@@ -479,9 +479,9 @@
 ||wangzhan5.com^$third-party
 ||wanliuliang.com^$third-party
 ||wauee.com^$third-party
-||xdwan.com^$third-party
-||phone.waystorm.com^$third-party
+||waystorm.com^$third-party
 ||web933.com^$third-party
+||weddingeeos.com^
 ||whoclick.cn^$third-party
 ||wiseie.com^$third-party
 ||wofan.net^$third-party
@@ -490,6 +490,7 @@
 ||wqzyt.net^$third-party
 ||wy31.com^$third-party
 ||wyunion.com^$third-party
+||xdwan.com^$third-party
 ||xcy8.com^
 ||xhunion.com^$third-party
 ||v.xi666.com^$third-party
