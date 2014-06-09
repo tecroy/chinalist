@@ -557,6 +557,7 @@ gamersky.com##div[style="position:absolute;z-index:1"]
 gamersky.com###hitix
 
 !---Gamme
+@@||google-analytics.com/analytics.js$domain=gamme.com.tw
 ||gamme.com.tw/ga/
 gamme.com.tw#@#.adlist
 gamme.com.tw#@#.adtitle

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: D7aLTj5PziXJhGWK5giKsQ
+!  Checksum: lhb5SAYxja3gYCUqPNusyg
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Mon, 09 Jun 2014 12:53:05 +0800
+!  Last Modified:  Mon, 09 Jun 2014 13:03:43 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -1968,6 +1968,7 @@ gamersky.com###hitix
 gamersky.com##.gpzl
 gamersky.com##div[style="position:absolute;z-index:1"]
 !---Gamme
+@@||google-analytics.com/analytics.js$domain=gamme.com.tw
 ||gamme.com.tw/ga/
 gamme.com.tw###bd
 gamme.com.tw##.fullad_ad
