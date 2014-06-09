@@ -574,6 +574,8 @@ mscbsc.com##.bao1
 ||static1.mtime.cn^$subdocument
 ||mycodes.net/js/$image
 ||newsmth.net/nForum/ajax/left_ads
+||onefunnyjoke.com/wp-content/themes/$object
+onefunnyjoke.com##div[id^="fjAd-"]
 ||offcn.com/qzzn/
 ||dl.opda.com.cn/attachments/portal/
 ||p5w.net/pfgg/
