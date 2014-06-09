@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: ql7nVnOGiOdRVNEH4wN3Eg
+!  Checksum: D7aLTj5PziXJhGWK5giKsQ
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Mon, 09 Jun 2014 11:59:13 +0800
+!  Last Modified:  Mon, 09 Jun 2014 12:53:05 +0800
 !  coding: utf-8, expires: 2 days
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -2890,9 +2890,8 @@ yesky.com##[class^="ad"]
 ||copy.ousns.com^
 ||res.yyets.com/ads/
 yyets.com##.games-rec-list
-yyets.com##.joke
-yyets.com##.j-t
 yyets.com##a[href="http://ehdw.taobao.com/"]
+yyets.com##body > div.block:nth-child(8)
 yyets.com##div[style^="width:700px;height:100px;"]
 !---叶子猪游戏网
 @@||yktj.yzz.cn/htmldata/mds/yzz_single_gg.js$domain=bbs.yzz.cn
