@@ -991,7 +991,7 @@ msn.people.com.cn##.banNSch
 
 !---PIXNET
 /blog/addvisit^
-||pixfs.net/js/mib.min.js
+||pixfs.net^*/mib
 ||pixgold.com^
 ||pixnet.net^*sticker$object
 ||api.pixnet.tv/count^
@@ -1003,6 +1003,7 @@ pixnet.net##[id*="-AD-"]
 pixnet.net##[id*="-Ad-"]
 pixnet.net##[id*="-aD-"]
 pixnet.net##[id*="-ad-"]
+pixnet.net##[id^="mib-"]
 pixnet.net,cwyuni.tw###pixblogad
 www.pixnet.net###extradiv2
 www.pixnet.net###extradiv5

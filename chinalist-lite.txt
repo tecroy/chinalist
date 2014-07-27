@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!  Checksum: fj1fNrFwbgdjePQ4v5Z1Qg
+!  Checksum: AI4So5GY1aoCA5kj10zU2Q
 !
 !  Title: knight00931's list
 !  formerly ChinaList by Gythialy Koo and knight00931
-!  Last Modified:  Mon, 09 Jun 2014 13:03:41 +0800
+!  Last Modified:  Sun, 27 Jul 2014 20:17:00 +0800
 !  coding: utf-8, expires: 24 hours
 !*** chinalist-adservers.txt ***
 !--中国电信
@@ -2305,7 +2305,7 @@ msn.people.com.cn##.banNSch
 ||api.pixnet.tv/count^
 ||counter.pixplug.in/count.php
 ||error.pixplug.in^
-||pixfs.net/js/mib.min.js
+||pixfs.net^*/mib
 ||pixgold.com^
 ||pixnet.net^*sticker$object
 ||referer.pixplug.in^
@@ -2314,6 +2314,7 @@ pixnet.net##[id*="-ad-"]
 pixnet.net##[id*="-aD-"]
 pixnet.net##[id*="-Ad-"]
 pixnet.net##[id*="-AD-"]
+pixnet.net##[id^="mib-"]
 pixnet.net,cwyuni.tw###pixblogad
 www.pixnet.net###extradiv2
 www.pixnet.net###extradiv5
